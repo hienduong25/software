@@ -6,3 +6,5 @@ __pycache__/
 frontend/.env
 frontend/node_modules/
 frontend/dist/
+backend/uploads/
+uploads/
